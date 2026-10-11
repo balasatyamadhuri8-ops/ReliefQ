@@ -1,0 +1,6 @@
+streamlit>=1.36
+qiskit>=1.2,<3
+numpy
+pandas
+plotly
+scipy
